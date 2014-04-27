@@ -1,0 +1,36 @@
+FixCoin 2014  
+
+FixCoin is a scrypt based cryptocurrency experiment aimed at 'fixing' some things.
+
+27,000,000 coins will be produced 
+
+Difficulty retargets frequently but not every block to keep 3 minute block spacing
+
+The award for each block will diminish for the life of the coin for the first 1 million blocks after which
+the award is fixed at .1 coins. 
+
+The formula for block reduction is simple math here are examples
+
+Block 100 = 100 coins
+block 1000 = 31.62 coins
+Block 10000 = 10 coins
+block 100000 = 6.16 coins
+Block 500000 = 1.41 coins
+
+It will gradually approach 1 coin to block 1 million
+
+It will take just over 5 and one half years to reach block 1 million with the spacing of 3 minutes.
+
+There is no premine.
+
+There are no bounties.
+
+There are no pools set up by the development team at launch.
+
+The coin launch only at cryptocointalk.com
+
+There is no website or foundation for this coin.
+
+The githubpage that holds the source code will be updated if anything changes.
+
+A windows wallet is provided at the time of launch on cryptocointalk to allow anyone the chance to mine.
